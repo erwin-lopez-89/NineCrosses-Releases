@@ -84,7 +84,7 @@
 
 | Versión | Paquete Oficial | Hash SHA-256 Oficial |
 | :--- | :--- | :--- |
-| **v1.0.0** | `NineCrosses-v1.0.0.apk` | `a97e8483419b67947acea8c1bc743f0e2ccdaa477fbcea57ed0821d73c8da5c6` |
+| **v1.0.0** | `NineCrosses-v1.0.0.apk` | `a6d0c7aa88ba77a72a58f1eaedc71a697ca7621fb454c9efba4dbb4da04ce2fc` |
 
 ```powershell
 # Windows (PowerShell):
